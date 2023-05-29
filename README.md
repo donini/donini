@@ -11,4 +11,4 @@ I also like to speak in some conferences around the world very often, you can ch
 
 For more, you can check my personal [website](https://donini.me/) or my [Twitter profile](https://twitter.com/donini).
 
-[![Rodrigo's WordPress Activity](https://www.cardpress.us/card/?username=rodrigodonini&format=image)](https://www.cardpress.us/)
+[![Rodrigo's WordPress Activity](https://github-readme-stats.vercel.app/api?username=donini)](https://www.cardpress.us/)
