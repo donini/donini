@@ -10,3 +10,5 @@ Most of my code is private due to contracts but I've developed some cool public 
 I also like to speak in some conferences around the world very often, you can check some of my talk decks [here](https://donini.me/category/talks/).
 
 For more, you can check my personal [website](https://donini.me/) or my [Twitter profile](https://twitter.com/donini).
+
+[![Rodrigo's WordPress Activity](https://www.cardpress.us/card/?username=rodrigodonini)](https://www.cardpress.us/)
