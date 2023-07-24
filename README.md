@@ -13,3 +13,4 @@ For more, you can check my personal [website](https://donini.me/) or my [Twitter
 
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=donini)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Rodrigo's WordPress Activity](https://www.cardpress.us/card/?username=rodrigodonini&avatar=true&badges=true)](https://www.cardpress.us/)
