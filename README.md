@@ -5,7 +5,7 @@ I’m Donini, just a normal developer who wants to spread your ideas and knowled
 - Currently working @ [SUPERCHARGED LLC.](https://supercharged.co/) and being SUPERCHARGED everyday ⚡️💜
 - Currently working @ [Toptal](https://toptal.com/) as WordPress Engineer and CMS Screener
 
-Most of my code is private due to contracts but I've developed some cool public stuff such as [Labrador Jekyll Theme](https://github.com/donini/labrador-jekyll-theme), [DON WP Security Plugin](https://github.com/donini/don-security), integrations from WordPerss and [Raspberry Pi](https://github.com/donini/scream-and-post), and Amazon Echo devices.
+Most of my code is private due to contracts but I've developed some cool public stuff, such as [Labrador Jekyll Theme](https://github.com/donini/labrador-jekyll-theme), [DON WP Security Plugin](https://github.com/donini/don-security), integrations from WordPress and [Raspberry Pi](https://github.com/donini/scream-and-post), and Amazon Echo devices.
 
 I also like to speak in some conferences around the world very often, you can check some of my talk decks [here](https://donini.me/category/talks/).
 
@@ -13,4 +13,4 @@ For more, you can check my personal [website](https://donini.me/) or my [Twitter
 
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=donini)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rodrigo's WordPress Activity](https://www.cardpress.us/card/?username=rodrigodonini&avatar=true&badges=true)](https://www.cardpress.us/)
+[![Rodrigo's WordPress Activity](https://www.cardpress.us/card?username=rodrigodonini&badges=true)](https://www.cardpress.us/)
