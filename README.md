@@ -11,6 +11,7 @@ I also like to speak in some conferences around the world very often, you can ch
 
 For more, you can check my personal [website](https://donini.me/) or my [Twitter profile](https://twitter.com/donini).
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=donini)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rodrigo's GitHub stats](https://github-stats-extended.vercel.app/api?username=donini)](https://github.com/stats-organization/github-stats-extended)
 
 [![Rodrigo's WordPress Activity](https://www.cardpress.us/card?username=rodrigodonini)](https://www.cardpress.us/)
